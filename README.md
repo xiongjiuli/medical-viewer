@@ -131,6 +131,8 @@ npm run dev
 http://localhost:3001
 ```
 
+启动成功后，可直接在浏览器打开 `http://localhost:3001` 查看项目。
+
 ### 打包构建
 
 ```bash
